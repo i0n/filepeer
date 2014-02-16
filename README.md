@@ -1,2 +1,2 @@
 # filepeer
-### a Sails application
+### a peer.js server
